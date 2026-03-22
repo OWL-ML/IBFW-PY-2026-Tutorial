@@ -42,28 +42,28 @@ Once opened in Colab:
 Colab does not automatically save back to this repository. You have several options:
 
 1. Save to Google Drive (default)
-- Click File → Save a copy in Drive
-- Notebook will be stored in your Google Drive
-- Best for quick experiments
+    - Click File → Save a copy in Drive
+    - Notebook will be stored in your Google Drive
+    - Best for quick experiments
 
 
 2. Download Locally
-- Click File → Download → Download `.ipynb`
-- Save to your computer
-- You can later upload or commit it
+    - Click File → Download → Download `.ipynb`
+    - Save to your computer
+    - You can later upload or commit it
 
 
 3. Save to Your Own GitHub Repository
 
-You can save directly from Colab to your personal GitHub account:
+    You can save directly from Colab to your personal GitHub account:
 
-- Click File → Save a copy in GitHub
-- Authorize GitHub (first time only)
-- Choose:
-    - Your repository (e.g., fork of this repo)
-    - Branch
-    - Commit message
-- Click OK
+    - Click File → Save a copy in GitHub
+    - Authorize GitHub (first time only)
+    - Choose:
+        - Your repository (e.g., fork of this repo)
+        - Branch
+        - Commit message
+    - Click OK
 
 ---
 
@@ -76,14 +76,13 @@ You can save directly from Colab to your personal GitHub account:
 ## 👤 How to Create a GitHub Account
 
 - If you don’t already have a GitHub account:
-
     - Go to: https://github.com/signup
     - Enter your email address
     - Create a password and username
     - Verify your account
     - Follow the onboarding steps
 
-Once done, you can save notebooks from Colab to your account.
+- Once done, you can save notebooks from Colab to your account.
 
 ---
 
