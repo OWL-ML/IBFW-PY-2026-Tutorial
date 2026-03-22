@@ -1,6 +1,39 @@
-# 📓 Notebooks – Run in Google Colab
+## 🐍 Introduction: Python, Jupyter Notebooks, and Google Colab
 
-This repository contains Jupyter notebooks that can be opened and executed directly in **Google Colab** — no local setup required.
+This course uses **Python** together with **Jupyter Notebooks**, a popular format for writing and running code interactively.
+
+---
+
+### 📓 What is a Jupyter Notebook?
+
+A **Jupyter Notebook** is a document that lets you:
+
+- Write and run Python code in small blocks (called *cells*)
+- Add explanations using text (Markdown)
+- Display outputs like texts, tables, plots, and images
+
+This makes it ideal for learning, experimentation, and data analysis.
+
+---
+
+### ☁️ What is Google Colab?
+
+**Google Colab (Colaboratory)** is a free, cloud-based environment that allows you to run Jupyter Notebooks in your browser.
+
+You don’t need to install anything locally — everything runs on Google’s servers.
+
+---
+
+### 🚀 Why do we use Colab?
+
+We use Colab in this course because it:
+
+- Requires **no setup or installation**
+- Works on any computer with a browser
+- Provides **free compute resources** (CPU, GPU)
+- Makes it easy to share and run notebooks
+
+This avoids common setup issues and lets you focus on learning Python.
 
 ---
 
@@ -57,7 +90,7 @@ Colab does not automatically save back to this repository. You have several opti
 
     You can save directly from Colab to your personal GitHub account:
 
-    - Click File → Save a copy in GitHub
+    - Click File → Save a copy in GitHub or Save 
     - Authorize GitHub (first time only)
     - Choose:
         - Your repository (create one for this turtorial)
