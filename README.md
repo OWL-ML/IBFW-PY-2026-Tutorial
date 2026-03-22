@@ -65,7 +65,8 @@ You can save directly from Colab to your personal GitHub account:
     - Commit message
 - Click OK
 
---
+---
+
 ## ⚡ Runtime Tips
 - Restart environment: Runtime → Restart runtime
 - Change hardware (GPU/CPU):
@@ -84,10 +85,14 @@ You can save directly from Colab to your personal GitHub account:
 
 Once done, you can save notebooks from Colab to your account.
 
+---
+
 ⚠️ Notes
 - Ensure you are logged into a Google account
 - Ensure that you have a github account
 - Runtime resets will clear variables (re-run cells if needed)
+
+---
 
 🧰 Troubleshooting
 
