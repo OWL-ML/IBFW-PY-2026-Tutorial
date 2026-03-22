@@ -6,7 +6,7 @@ This repository contains Jupyter notebooks that can be opened and executed direc
 
 ## ▶️ How to Open Any Notebook in Colab
 
-1. Go to the notebook file in this repository on GitHub  
+1. Go to any notebook file in this repository on GitHub  
 2. Click the **"Open in Colab"** badge (available in all the notebooks)  
    **OR**
 3. Manually open it:
@@ -60,8 +60,8 @@ Colab does not automatically save back to this repository. You have several opti
     - Click File → Save a copy in GitHub
     - Authorize GitHub (first time only)
     - Choose:
-        - Your repository (e.g., fork of this repo)
-        - Branch
+        - Your repository (create one for this turtorial)
+        - Branch (default is main)
         - Commit message
     - Click OK
 
