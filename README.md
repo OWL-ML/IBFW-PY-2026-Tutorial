@@ -124,10 +124,4 @@ Colab does not automatically save back to this repository. You have several opti
 - Ensure that you have a github account
 - Runtime resets will clear variables (re-run cells if needed)
 
----
-
-🧰 Troubleshooting
-
-**Notebook not opening?**
-Check that the repo is public and the branch/path is correct
 
