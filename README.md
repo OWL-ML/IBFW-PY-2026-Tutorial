@@ -60,7 +60,7 @@ Once opened in Colab:
 - Run all cells: **Runtime → Run all**
 - Stop execution: click the **Stop** button or **Runtime → Interrupt execution**
 
----
+
 
 ### ✏️ Editing Notebooks
 - Click inside a cell to edit code or text
