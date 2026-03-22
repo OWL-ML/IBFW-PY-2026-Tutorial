@@ -106,6 +106,8 @@ Colab does not automatically save back to this repository. You have several opti
     - Runtime → Change runtime type
 - If something breaks, try restarting and running all cells again
 
+---
+
 ## 👤 How to Create a GitHub Account
 
 - If you don’t already have a GitHub account:
@@ -124,4 +126,5 @@ Colab does not automatically save back to this repository. You have several opti
 - Ensure that you have a github account
 - Runtime resets will clear variables (re-run cells if needed)
 
+---
 
