@@ -4,7 +4,7 @@ This course uses **Python** together with **Jupyter Notebooks**, a popular forma
 
 ---
 
-### 📓 What is a Jupyter Notebook?
+## 📓 What is a Jupyter Notebook?
 
 A **Jupyter Notebook** is a document that lets you:
 
@@ -16,7 +16,7 @@ This makes it ideal for learning, experimentation, and data analysis.
 
 ---
 
-### ☁️ What is Google Colab?
+## ☁️ What is Google Colab?
 
 **Google Colab (Colaboratory)** is a free, cloud-based environment that allows you to run Jupyter Notebooks in your browser.
 
@@ -24,7 +24,7 @@ You don’t need to install anything locally — everything runs on Google’s s
 
 ---
 
-### 🚀 Why do we use Colab?
+## 🚀 Why do we use Colab?
 
 We use Colab in this course because it:
 
@@ -121,7 +121,7 @@ Colab does not automatically save back to this repository. You have several opti
 
 ---
 
-⚠️ Notes
+## ⚠️ Notes
 - Ensure you are logged into a Google account
 - Ensure that you have a github account
 - Runtime resets will clear variables (re-run cells if needed)
